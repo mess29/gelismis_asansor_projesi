@@ -1,0 +1,15 @@
+Analyzing gelismis_asansor_projesi...                           
+
+   info • 'background' is deprecated and shouldn't be used. Use surface instead. This feature was deprecated after v3.18.0-0.1.pre • lib/src/core/theme/app_theme.dart:30:9 • deprecated_member_use
+   info • 'onBackground' is deprecated and shouldn't be used. Use onSurface instead. This feature was deprecated after v3.18.0-0.1.pre • lib/src/core/theme/app_theme.dart:31:9 • deprecated_member_use
+  error • The argument type 'CardTheme' can't be assigned to the parameter type 'CardThemeData?'.  • lib/src/core/theme/app_theme.dart:75:18 • argument_type_not_assignable
+warning • Unused import: 'package:gelismis_asansor_projesi/src/data/models/work_order_model.dart' • lib/src/data/models/service_form_model.dart:2:8 • unused_import
+warning • The annotation 'enumerated' can only be used on fields or getters • lib/src/data/models/work_order_model.dart:5:2 • invalid_annotation_target
+warning • The annotation 'enumerated' can only be used on fields or getters • lib/src/data/models/work_order_model.dart:13:2 • invalid_annotation_target
+warning • Unused import: 'package:gelismis_asansor_projesi/src/core/db/isar_service.dart' • lib/src/data/repositories/service_form_repository_impl.dart:2:8 • unused_import
+   info • 'AutoDisposeProviderRef' is deprecated and shouldn't be used. will be removed in 3.0.0. Use Ref instead • lib/src/presentation/work_orders/providers/service_form_provider.g.dart:26:7 • deprecated_member_use
+   info • 'AutoDisposeAsyncNotifierProviderRef' is deprecated and shouldn't be used. will be removed in 3.0.0. Use Ref instead • lib/src/presentation/work_orders/providers/service_form_provider.g.dart:178:25 • deprecated_member_use
+   info • 'AutoDisposeAsyncNotifierProviderRef' is deprecated and shouldn't be used. will be removed in 3.0.0. Use Ref instead • lib/src/presentation/work_orders/providers/work_order_detail_provider.g.dart:161:8 • deprecated_member_use
+   info • 'AutoDisposeProviderRef' is deprecated and shouldn't be used. will be removed in 3.0.0. Use Ref instead • lib/src/presentation/work_orders/providers/work_order_provider.g.dart:25:34 • deprecated_member_use
+   info • 'AutoDisposeFutureProviderRef' is deprecated and shouldn't be used. will be removed in 3.0.0. Use Ref instead • lib/src/presentation/work_orders/providers/work_order_provider.g.dart:42:7 • deprecated_member_use
+
